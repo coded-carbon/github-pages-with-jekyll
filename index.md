@@ -1,5 +1,5 @@
 ---
-title: "Welcome to my blog"
+# coded carbon
 ---
 
-I'm glad you are here. I plan to talk about ...
+### mining carbon, the source of diamonds...
